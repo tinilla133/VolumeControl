@@ -61,7 +61,6 @@ class VolumeControl {
         void setBalanceMode();
         void changeBalance(char direction);
         void muteVolume();
-        void printDisplay(char selection);
         void printVolume();
         void printBalance();
         void printCentered(char *text, unsigned char row);
