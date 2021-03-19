@@ -17,10 +17,12 @@
 	
  ## Configuration:
  Configuration can be done in setup.h file.
-	Each parameter is described by a comment in code.
-	Details as balance positions, maximum volume (if you dont want to use full 31.5 dB of gain of chips), size of ecah balance position, 
-	slopes of fade in and fade out curves, acceleration and sensitivity of rotary encoder to suit different encoders behavior.
-	It also can be configured to use one chip per channel in a dual configuration and to use parallel or I2S display.
+
+Each parameter is described by a comment in code.
+	
+Details as balance positions, maximum volume (if you dont want to use full 31.5 dB of gain of chips), size of ecah balance position, slopes of fade in and fade out curves, acceleration and sensitivity of rotary encoder to suit different encoders behavior.
+	
+It also can be configured to use one chip per channel in a dual configuration and to use parallel or I2S display.
  
  ## Classes:
  ### class VolumeControl
